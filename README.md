@@ -1,10 +1,11 @@
-```markdown
 # 🛡️ Somfechukwu Okany | Aspiring SOC Analyst & Threat Hunter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somfechukwu/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okanyvalentine1@gmail.com)
-[![ISC2 CC](https://img.shields.io/badge/ISC²-Certified_in_Cybersecurity-00838F?style=for-the-badge&logo=target&logoColor=white)](#)
-[![Google Cyber](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
+<p align="left">
+  <a href="https://www.linkedin.com/in/somfechukwu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:okanyvalentine1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/ISC%C2%B2_Certified_in_Cybersecurity-00838F?style=for-the-badge&logo=target&logoColor=white" alt="ISC2 CC" />
+  <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cyber" />
+</p>
 
 ---
 
@@ -13,6 +14,7 @@
 Dual-certified in cybersecurity (**ISC² CC** and **Google Cybersecurity Professional Certificate**) with hands-on experience simulating attacks, analyzing network telemetry, and investigating threats in virtual lab environments. I am focused on starting my career as a **Tier 1 SOC Analyst** where I can apply structured problem-solving to daily defensive operations.
 
 My journey into tech is grounded in a multidisciplinary background across **quality assurance**, **engineering principles**, **teaching**, and years of **fine art portraiture**. That combination gave me two core habits that carry directly into security analysis:
+
 * The systematic discipline to follow rigorous QA processes.
 * The patience to spot subtle anomalies buried inside large volumes of routine network traffic.
 
@@ -48,5 +50,3 @@ Lately, I have been integrating **AI** into my daily lab practice. I use it main
 
 * 💼 **LinkedIn:** [linkedin.com/in/somfechukwu](https://www.linkedin.com/in/somfechukwu/)
 * ✉️ **Email:** [okanyvalentine1@gmail.com](mailto:okanyvalentine1@gmail.com)
-
-```
